@@ -1,5 +1,5 @@
 <p align="center"> <img src="imgs/name.gif" /> </p>
-<h3 align="center">👩🏼‍💻 Youmna Jaza | 💻 Software Engineering Student | 🏫 AlYamamah University</h3>
+<h3 align="center">👩🏼‍💻 Youmna Jaza | 💻 Software Engineering Student | 🏫 Al Yamamah University</h3>
 
 ### About me:
 - 🚩 CTF Player
