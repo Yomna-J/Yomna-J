@@ -43,7 +43,7 @@
 
 ## Achievements & Certifications
 
-<img align="right" src="image.png" width="300"/>
+<img align="right" src="image.png" width="280"/>
  
 🏆 [2021] Top 10 in CyberHub CTF for all KSA students.  
 🏆 [2021] Top 10 in KSA TryHackMe.   
