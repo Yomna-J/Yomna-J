@@ -59,8 +59,8 @@
 🏆 [2021] Vulnerability Management, Qualys.    
 🏆 [2020] Programming Essentials in Python, Cisco Networking Academy.  
 🏆 [2020] Entry Level Course on Cybersecurity, Kaspersky.   
-🏆 [2020] Cybersecurity Foundation, Palo Alto Networks Academy.
-🏆 [2020] Database Foundations, Oracle.
+🏆 [2020] Cybersecurity Foundation, Palo Alto Networks Academy.  
+🏆 [2020] Database Foundations, Oracle.  
 🏆 [2019] Introduction to cybersecurity, Cisco Networking Academy.  
 
 
