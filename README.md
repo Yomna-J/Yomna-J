@@ -51,10 +51,10 @@
 
 <img align="right" src="image.png" width="280"/>
  
-🏆 [2021] Top 10 in CyberHub CTF for all KSA students.  
+🏆 [2021] Dean’s Honor List, Al Yamamah University.   
+🏆 [2021] Top 10 in CyberHub CTF for all KSA students.    
 🏆 [2021] Top 10 in KSA TryHackMe.   
 🏆 [2021] DevNet Associate, Cisco Networking Academy.   
-🏆 [2021] Dean’s Honor List, Al Yamamah University.   
 🏆 [2021] NDG Linux Essentials, Cisco Networking Academy.  
 🏆 [2021] Vulnerability Management, Qualys.    
 🏆 [2020] Programming Essentials in Python, Cisco Networking Academy.  
