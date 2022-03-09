@@ -41,6 +41,8 @@
 <img src="https://img.shields.io/static/v1?label=&message=Apache NetBeans IDE&color=1B6AC6&logo=Apache NetBeans IDE&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Wireshark&color=1679A7&logo=Wireshark&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=Volatility&color=D22128&logo=Volatility&logoColor=FFFFFF"/>
+
 </p>
 
 ## Learning: 
