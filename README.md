@@ -14,8 +14,8 @@
 - <a href="https://emoji.gg/emoji/4297-pepe-hacker"><img src="https://emoji.gg/assets/emoji/4297-pepe-hacker.gif" width="20px"  alt="pepe_hacker"></a> CTF Player  
 - <a href="https://emoji.gg/emoji/4860-abongoblob"><img src="https://emoji.gg/assets/emoji/4860-abongoblob.gif" width="20px" alt="abongoblob"></a> IEEE member
 - <a href="https://emoji.gg/emoji/7244_ConfusedMathLady"><img src="https://emoji.gg/assets/emoji/7244_ConfusedMathLady.gif" width="20px" alt="ConfusedMathLady"></a> I spend my free time solving challenges on [TryHackMe](https://tryhackme.com/) and [Codewars](https://www.codewars.com/)
-- <a href="https://emoji.gg/emoji/2325-rainbow-dance-blob-think"><img src="https://emoji.gg/assets/emoji/2325-rainbow-dance-blob-think.gif" width="20px" alt="Rainbow_dance_blob_think"></a> Always looking forward to learn more and new stuff 
-
+- <a href="https://emoji.gg/emoji/2325-rainbow-dance-blob-think"><img src="https://emoji.gg/assets/emoji/2325-rainbow-dance-blob-think.gif" width="20px" alt="Rainbow_dance_blob_think"></a> Always looking forward to learn more
+ 
 ## Languages and Tools:
 <p align="left">
 <img src="https://img.shields.io/static/v1?label=&message=Java&color=orange&logo=java&logoColor=FFFFFF"/>
