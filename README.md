@@ -23,6 +23,9 @@
 <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=css3&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&logo=bootstrap&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=phpMyAdmin&color=6C78AF&logo=phpmyadmin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=Dart&color=0175C2&logo=dart&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=Firebase Cloud Messaging&color=FFCA28&logo=Firebase&logoColor=000000"/>
 <img src="https://img.shields.io/static/v1?label=&message=VS Code&color=007ACC&logo=Visual Studio Code&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=000000"/>
@@ -41,13 +44,13 @@
 <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Wireshark&color=1679A7&logo=Wireshark&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Volatility&color=D22128&logo=Volatility&logoColor=FFFFFF"/>
-
+<img src="https://img.shields.io/static/v1?label=&message=Adobe XD&color=FF61F6&logo=adobe xd&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=Microsoft Office&color=D83B01&logo=Microsoft Office&logoColor=FFFFFF"/>
 </p>
 
 ## Learning: 
 <p align="left">
-<img src="https://img.shields.io/static/v1?label=&message=Dart&color=0175C2&logo=dart&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/static/v1?label=&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF"/>
 </p>
 
 ## Achievements & Certifications
