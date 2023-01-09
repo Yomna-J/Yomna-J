@@ -118,7 +118,7 @@
 ***  
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomna-J&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomna-J&count_private=true&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)	
 
 </div>
 
