@@ -121,8 +121,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomna-J&count_private=true&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)	
 
 </div>
-
-
-
-<br>
-<p align="center" ><p align="center"> <img src="https://komarev.com/ghpvc/?username=Yomna-J" alt="Masta"/> </p>  </p>
