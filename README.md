@@ -27,7 +27,7 @@
  
  ## Skills
  
- #### Languages:
+ #### Languages
 <p align="left">
 <img src="https://img.shields.io/static/v1?label=&message=Java&color=orange&logo=Java&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=FFFFFF"/>
@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF"/>
  </p>   
  
- #### Libraries & Frameworks:
+ #### Libraries & Frameworks
 <p align="left">
 <img src="https://img.shields.io/static/v1?label=&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=React Js&color=61DAFB&logo=React&logoColor=000000"/>
@@ -49,7 +49,7 @@
 
 </p>    
  
- #### Desgin:
+ #### Desgin
 <p align="left">
  <img src="https://img.shields.io/static/v1?label=&message=Blender&color=F5792A&logo=blender&logoColor=FFFFFF"/>
  <img src="https://img.shields.io/static/v1?label=&message=Adobe XD&color=FF61F6&logo=adobe xd&logoColor=FFFFFF"/>
@@ -57,7 +57,7 @@
  </p>
  
  
- #### Tools:
+ #### Tools
 <p align="left">
  <img src="https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=000000"/>
  <img src="https://img.shields.io/static/v1?label=&message=Kali Linux&color=557C94&logo=Kali Linux&logoColor=FFFFFF"/>
@@ -88,7 +88,7 @@
 
  
 
-## Learning: 
+## Learning
 <p align="left">
  <img src="https://img.shields.io/static/v1?label=&message=Tailwind CSS&color=06B6D4&logo=tailwind css&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Type Script&color=3178C6&logo=TypeScript&logoColor=FFFFFF"/>
