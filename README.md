@@ -118,6 +118,6 @@
 ***  
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomna-J&count_private=true&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)	
+[![Top Langs](https://github.com/Yomna-J/github-stats/blob/master/generated/languages.svg)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Yomna-J/github-stats/blob/master/generated/languages.svg))	
 
 </div>
