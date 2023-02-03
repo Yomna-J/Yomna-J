@@ -66,6 +66,8 @@
  
 <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=mysql&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=phpMyAdmin&color=6C78AF&logo=phpmyadmin&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Vercel&color=000000&logo=vercel&logoColor=FFFFFF"/>
+
 <img src="https://img.shields.io/static/v1?label=&message=Firebase Cloud Messaging&color=FFCA28&logo=Firebase&logoColor=000000"/>
  
 <img src="https://img.shields.io/static/v1?label=&message=VS Code&color=007ACC&logo=Visual Studio Code&logoColor=FFFFFF"/>
