@@ -46,6 +46,7 @@
 <img src="https://img.shields.io/static/v1?label=&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=React Js&color=61DAFB&logo=React&logoColor=000000"/>
 <img src="https://img.shields.io/static/v1?label=&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF"/>
+   <img src="https://img.shields.io/static/v1?label=&message=Tailwind CSS&color=06B6D4&logo=tailwind css&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=MUI&color=007FFF&logo=MUI&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&logo=bootstrap&logoColor=FFFFFF"/>
 
@@ -94,7 +95,6 @@
 
 ## Learning
 <p align="left">
- <img src="https://img.shields.io/static/v1?label=&message=Tailwind CSS&color=06B6D4&logo=tailwind css&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Type Script&color=3178C6&logo=TypeScript&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF"/>
 
