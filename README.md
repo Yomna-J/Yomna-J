@@ -96,7 +96,6 @@
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Type Script&color=3178C6&logo=TypeScript&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF"/>
 
 </p>
 
