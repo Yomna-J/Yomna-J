@@ -10,7 +10,7 @@
 
 
 
-<h3 align="center">👩🏼‍💻 Youmna Jaza | 💻 Software Engineering Student | 🏫 Al Yamamah University</h3>
+<h3 align="center">👩🏼‍💻 Youmna Jaza | 💻 Software Engineering Fresh Graduate </h3>
 <p align="center">
   <a href="https://youmnajaza.vercel.app"><img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=000000&logoColor=FFFFFF"/>
 <a href="https://tryhackme.com/p/Xax0af"><img src="https://img.shields.io/static/v1?label=&message=TryHackMe&color=981E32&logo=TryHackMe&logoColor=FFFFFF"/>
